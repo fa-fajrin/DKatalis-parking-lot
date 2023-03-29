@@ -30,7 +30,7 @@ You can create your own list of commands and put it in a file. It makes you able
 python3 parking-lot.py your_filename
 ```
 
-For example, I've provided a list of commands in the commands.txt file. You can try it on your local machine by running:
+For example, I've provided two files that containt a list of commands in `example-1.txt` and `example-2.txt`. You can try it on your local machine by running:
 ```
 python3 parking-lot.py example-1.txt
 ```
