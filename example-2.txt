@@ -1,0 +1,26 @@
+create 15
+park KA-01-HH-1234
+park KA-01-HH-9999
+park KA-01-BB-0001
+status
+park KA-01-HH-7777
+park KA-01-HH-2701
+status
+park KA-01-HH-3141
+park KA-01-P-333
+park DL-12-AA-9999
+status
+leave KA-01-HH-2701 4
+status
+park KA-02-HH-3141
+status
+leave KA-01-HH-1234 5
+leave KA-01-BB-0001 2
+status
+park KA-09-HH-0987
+leave DL-12-AA-9999 7
+leave KA-09-HH-0987 2
+leave KA-02-HH-3141 3
+leave KA-01-HH-3141 8
+leave KA-01-HH-7777 1
+status
