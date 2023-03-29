@@ -1,9 +1,11 @@
 # Parking Lot System
 A really simple use case for an automated ticketing system using Python3.
 
+
 ## :white_check_mark: Requirements
 - [x] [Python3](https://www.python.org/downloads/)
 - [x] [Git](https://github.com/git-guides/install-git)
+
 
 ## :pushpin: How to start
 1. Clone the python code from this repository
@@ -21,8 +23,9 @@ A really simple use case for an automated ticketing system using Python3.
 * `leave [car-number] [hours]` -> Removes (unpark) a car
 * `status` -> Prints status of the parking lot
 
+
 ## :bulb: Example
-You can create your own list of commands and put it in a file. It makes you able to can run the code followed by the file name
+You can create your own list of commands and put it in a file. It makes you able to run the code followed by the file name
 ```
 python3 parking-lot.py your_filename
 ```
